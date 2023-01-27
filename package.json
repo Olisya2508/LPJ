@@ -4,7 +4,7 @@
   "scripts": {
     "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"No test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node laporan_pertanggungjawaban.html"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
     "url": "https://github.com/Olisya2508/LPJ/issues"
   },
   "homepage": "https://github.com/Olisya2508/LPJ#readme",
-  "main": "index.js",
+  "main": "laporan_pertanggungjawaban.html",
   "description": ""
 }
